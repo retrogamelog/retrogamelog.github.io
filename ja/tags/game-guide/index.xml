@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Game Guide on The GameLog Archive</title><link>https://retrogamelog.github.io/ja/tags/game-guide/</link><description>Recent content in Game Guide on The GameLog Archive</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 13 Apr 2025 00:19:21 +0900</lastBuildDate><atom:link href="https://retrogamelog.github.io/ja/tags/game-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>バットマン：ザ・ビデオゲーム (NES)</title><link>https://retrogamelog.github.io/ja/walkthrough/nes/batman-the-video-game-nes/</link><pubDate>Sun, 13 Apr 2025 00:19:21 +0900</pubDate><guid>https://retrogamelog.github.io/ja/walkthrough/nes/batman-the-video-game-nes/</guid><description>&lt;h1 id="batman-the-video-game---nes-バットマンザビデオゲーム">Batman: The Video Game - NES (バットマン：ザ・ビデオゲーム)&lt;/h1>
+&lt;p>本稿は、Sunsoftが開発したNES用バットマンゲーム（北米では “Batman: The Video Game”、日本では「バットマン」）の、詳細なレベル構成、攻略、基本概要および発売情報、開発背景、ゲームシステムと評価など、全般的な内容を取り扱います。&lt;/p>
+&lt;hr>
+&lt;h2 id="1-基本概要および発売情報">1. 基本概要および発売情報&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>タイトルおよび地域の違い&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>北米バージョン：&lt;/strong> “Batman: The Video Game”&lt;/li>
+&lt;li>&lt;strong>日本バージョン：&lt;/strong> 「バットマン」&lt;br>
+地域により、カバーのデザインやタイトルフォント、発売日の若干の違いがあります。日本では1989年12月22日に初めて発売され、北米では1990年にリリースされました。ヨーロッパ版は1990年後半に公開されました。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>開発およびパブリッシング&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>開発社／パブリッシャー：&lt;/strong> Sunsoft&lt;/li>
+&lt;li>&lt;strong>主要スタッフ：&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>デザイナー：&lt;/strong> 森一族（モリ カズトモ）、小島忠、岩田良明、酒井紀子 など&lt;/li>
+&lt;li>&lt;strong>プログラマー：&lt;/strong> 鈴木啓一、東谷浩明 など&lt;/li>
+&lt;li>&lt;strong>音楽担当：&lt;/strong> 小高直樹&lt;br>
+当時、Sunsoftはティム・バートン監督の1989年版バットマン映画をモチーフに、複数のコンソール向けバットマンゲームを制作しており、NES版は最も広く知られた作品です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="2-開発および制作背景">2. 開発および制作背景&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>映画モチーフとの違い&lt;/strong>&lt;br>
+このゲームは公式には1989年版バットマン映画と連動していますが、実際のゲームプロットは映画のストーリーラインとは大きく異なります。映画の暗いゴッサム・シティをベースにしながらも、ゲーム内では新たに構成されたレベルと敵キャラクターが登場します。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>プロトタイプおよび改訂過程&lt;/strong>&lt;br>
+初期のプロトタイプ版では、1UPアイコン、異なるカットシーン、そして当初の最終ボスとしてファイアーバグが配置されるなど、いくつかの要素が異なっていました。制作陣は映画の雰囲気をよりよく反映するために、アートワーク、セリフ、ボスキャラクターの構成を変更し、最終版ではジョーカーボスとゴッサム大聖堂のベルタワーでの決戦を強調しました。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="3-ゲームシステムおよび特徴">3. ゲームシステムおよび特徴&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>プラットフォームおよびジャンル&lt;/strong>&lt;br>
+NES用のプラットフォームゲームで、全5つのレベルで構成されています。各レベルはゴッサム・シティの様々な環境（街並み、化学工場、下水道、研究所、大聖堂ベルタワー）を舞台に進行し、各レベルの最後にはボスとの戦闘があります。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>ゲームプレイメカニズム&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>キャラクターの能力：&lt;/strong>&lt;br>
+バットマンは基本攻撃に加え、当時は珍しかった&lt;strong>壁ジャンプ&lt;/strong>機能を搭載しており、障害物を避けたり高所に登ったりすることができます。&lt;br>
+特に、壁ジャンプを活用しないとダメージを受ける箇所が多いため、巧みに使いこなすことが必須です。&lt;/li>
+&lt;li>&lt;strong>武器システム：&lt;/strong>&lt;br>
+3種類の発射型武器を使用します。&lt;strong>Start&lt;/strong>ボタンを押すことで順に武器を切り替えます。
+&lt;ul>
+&lt;li>&lt;strong>バタラン（Batarang）：&lt;/strong> ブーメランのように使用され、敵に向かって投げ、バットマンの元へ戻るよう設計されています。&lt;/li>
+&lt;li>&lt;strong>スピアガン（Spear Gun）：&lt;/strong> 敵に向かって短く鋭い槍を発射します。&lt;/li>
+&lt;li>&lt;strong>ダーク（Dirk）：&lt;/strong> 3方向に分裂して発射され、広範囲の敵を攻撃できます。&lt;br>
+これらの武器はすべて、限られた「ペレットアイテム」を消費するため、状況に応じて管理する必要があります。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>レベル構成およびボス戦：&lt;/strong>&lt;br>
+各レベルでは、Deadshot、KGBeast、Maxie Zeus、Heat WaveなどのDCコミックの悪役やその部下、ミニオンなど、多彩な障害物と敵が登場し、最終的なボス戦はゴッサム大聖堂のベルタワーでジョーカーと対決します。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>グラフィックおよびサウンド&lt;/strong>&lt;br>
+NESハードウェアの限界を乗り越えた洗練されたピクセルアートと、小高直樹が作曲したやや暗めながらも心地よいBGMが強い印象を与えます。映画の暗い雰囲気と調和する色合いや、緻密にデザインされた背景が特徴です。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="4-詳細なレベル構成と攻略">4. 詳細なレベル構成と攻略&lt;/h2>
+&lt;p>ゴッサム・シティは200周年記念フェスティバルを準備しているものの、都市全体に広がる犯罪と暴力のせいで、市民は不安に震えています。その混沌の中心にはジョーカーが存在し、彼は神経ガスを撒き散らして都市を恐怖に陥れています。こうした状況の中で、都市を救える唯一の人物はバットマンです。プレイヤーはバットマンとなり、ジョーカーの陰謀を阻止し、ゴッサム・シティを救わなければなりません。&lt;/p></description></item></channel></rss>
